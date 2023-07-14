@@ -1,0 +1,16 @@
+*{
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  margin: 0;
+  padding: 0;
+}
+.title{
+  background-color: blue;
+  border: 2px solid red;
+  color: aliceblue;
+}
+.link:hover{
+  font-size: 17px;
+  transition: all 0.2s;
+  color: red;
+}
+
